@@ -18,3 +18,5 @@ Route::middleware('auth')->group(function () {
 });
 
 require __DIR__.'/auth.php';
+
+// Ceci est ma nouvelle contribution à ce projet
